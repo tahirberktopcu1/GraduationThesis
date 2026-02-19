@@ -1,0 +1,10 @@
+metric,rl,astar
+success_rate,1,1
+collision_rate,0,0
+timeout_rate,0,0
+avg_steps,479.64,n/a
+avg_path_length,50.62,28.97
+path_length_std,1.44,0
+avg_reward,5.64,n/a
+path_length_ratio_rl_to_astar,1.75,1
+path_length_delta_rl_minus_astar,21.65,0

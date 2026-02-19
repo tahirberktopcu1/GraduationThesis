@@ -1,0 +1,13 @@
+episodes: 64
+success_rate: 1.0000
+collision_rate: 0.0000
+timeout_rate: 0.0000
+mean_steps: 479.64 (std 2.61)
+mean_path_length: 50.62 (std 1.44)
+mean_reward: 5.64 (std 1.44)
+astar_path_length: 28.97
+astar_nodes: 49
+astar_segment_length: 0.604
+rl_to_astar_length_ratio: 1.75
+rl_minus_astar_length: 21.65
+rl_mean_step_length: 0.1055
